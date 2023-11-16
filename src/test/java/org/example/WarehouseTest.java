@@ -1,3 +1,4 @@
+
 package org.example;
 
 import org.example.warehouse.Category;
@@ -264,3 +265,4 @@ class WarehouseTest {
         }
     }
 }
+
